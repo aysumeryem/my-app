@@ -1,15 +1,17 @@
 .menu {
-  width: 80%;
+  width: 30%;
   margin: 25px auto;
   display: flex;
   justify-content: center;
   gap: 50px;
   margin-bottom: 50px;
   margin-top: 50px;
+  background-color: azure;
 
 }
 .App{
   text-align: center;
+  color:cadetblue;
 }
 a {
   text-decoration: none;
